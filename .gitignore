@@ -1,0 +1,4 @@
+## .gitignore file for lua-scaffold
+
+## ignore folder fetched through gclient
+lua
